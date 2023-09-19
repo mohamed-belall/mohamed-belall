@@ -8,16 +8,17 @@ mohamed-belall</a></h1>
 
 
 <br><br>
-- 🔭 I’m currently working as Marketing Volunteer at IEEE Tanta Student Branch
-    - Embedded System Core Team at IEEE
-    -  PR Specialist at Google Developer Student Club - GDSC Tanta University
+- computer engineering & automatic control department @ faculty of engineering tanta university
+- Marketing Volunteer at IEEE Tanta Student Branch
+- Embedded System Core Team at IEEE
+- PR Specialist at Google Developer Student Club - GDSC Tanta University
 - Former HR for embedded system team at Google Developer Student Club - GDSC Tanta University
 
 
 
 - 🌱 I’m currently learning embedded system <a href="https://github.com/mohamed-belall/Embedded_System_learn_in_depth_diploma" target="blank">Mastring Embedded System Diploma</a>
 
-- 📫 How to reach me **mohamedbelal.eng@gmail.com**
+- 📫 How to reach me **mohamedbelal045@gmail.com**
 
 	
 <br/>
@@ -29,7 +30,8 @@ mohamed-belall</a></h1>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mohamed-belal-355316218/">
 			    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/mohamed-belall">
+        <a style="margin-left: 10px;" target
+="_blank" href="https://github.com/mohamed-belall">
 		      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/profile.php?id=100051442270718">
 		      <img src="https://img.icons8.com/doodle/40/000000/facebook--v1.png"></a>
@@ -50,16 +52,10 @@ mohamed-belall</a></h1>
 
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-belall&theme=tokyonight_duo" alt="mohamed-belall" /></p>
 
- ----	
 
-<div align="center">
+| ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=mohamed-belall&show_icons=true&theme=dracula&include_all_commits=true)             | ![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-belall&theme=dracula)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-belall&langs_count=8&theme=dracula&card_width=500px) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=mohamed-belall&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=dracula&card_width=500px) |
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-belall&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="570"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-belall&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="368"  alt="0xabdulkhalid"/>
-
-</a>
-</div>
 
