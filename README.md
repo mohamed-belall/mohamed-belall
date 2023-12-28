@@ -9,16 +9,16 @@ mohamed-belall</a></h1>
 
 <br><br>
 - computer engineering & automatic control department @ faculty of engineering tanta university
-- Marketing Volunteer at IEEE Tanta Student Branch
-- Co-Load for Embedded System Team at IEEE
-- PR Specialist at Google Developer Student Club - GDSC Tanta University
-- Former HR for embedded system team at Google Developer Student Club - GDSC Tanta University
+- Head of Embedded System Team @ IEEE TSB
+- Marketing Volunteer @ IEEE TSB
+- vice PR Specialist @ Google Developer Student Club - GDSC Tanta University
+- Former HR for Embedded system team at Google Developer Student Club - GDSC Tanta University
 
 
 
 - 🌱 I’m currently learning embedded system <a href="https://github.com/mohamed-belall/Embedded_System_learn_in_depth_diploma" target="blank">Mastring Embedded System Diploma</a>
 
-- 📫 How to reach me **mohamedbelal045@gmail.com**
+- 📫 How to reach me **mohamedbelal.eng@gmail.com**
 
 	
 <br/>
