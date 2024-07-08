@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://mohamed-belall.github.io/Me.io/" target="blank">
 mohamed-belall</a></h1>
-<h3 align="center">I'm a passionate Embedded SW Engineer</h3>
+<h3 align="center">I'm a passionate Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamed-belall&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-belall" /> </p>
 
