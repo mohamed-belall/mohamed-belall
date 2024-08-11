@@ -18,7 +18,7 @@ mohamed-belall</a></h1>
 
 
 
-- 🌱 I’m currently learning embedded system <a href="https://github.com/mohamed-belall/Embedded_System_learn_in_depth_diploma" target="blank">Mastring Embedded System Diploma</a>
+
 
 - 📫 How to reach me **mohamedbelal.eng@gmail.com**
 
