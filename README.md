@@ -9,8 +9,10 @@ mohamed-belall</a></h1>
 
 <br><br>
 - computer engineering & automatic control department @ faculty of engineering tanta university
-- Head of Embedded System Team @ IEEE TSB
-- vice PR Specialist @ Google Developer Student Club - GDSC Tanta University
+- software engineer internship @ INNOTECH
+- software engineer trainee @ DEPI 
+- Former Head of Embedded System Team @ IEEE TSB
+- Former vice PR Specialist @ Google Developer Student Club - GDSC Tanta University
 - Former Marketing Volunteer @ IEEE TSB
 - Former HR for Embedded system team at Google Developer Student Club - GDSC Tanta University
 
