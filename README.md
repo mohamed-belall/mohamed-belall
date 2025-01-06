@@ -9,8 +9,10 @@ mohamed-belall</a></h1>
 
 <br><br>
 - computer engineering & automatic control department @ faculty of engineering tanta university
-- software engineer internship @ INNOTECH
-- software engineer trainee @ DEPI 
+- Site Coordinator @Almentor
+- Coordinator @EYouth
+- Former software engineer internship @ INNOTECH
+- Former software engineer trainee @ DEPI 
 - Former Head of Embedded System Team @ IEEE TSB
 - Former vice PR Specialist @ Google Developer Student Club - GDSC Tanta University
 - Former Marketing Volunteer @ IEEE TSB
