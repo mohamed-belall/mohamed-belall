@@ -10,8 +10,8 @@ mohamed-belall</a></h1>
 <br><br>
 - computer engineering & automatic control department @ faculty of engineering tanta university
 - Software Engineer Intern @Algoriza
-- Site Coordinator @Almentor
 - Coordinator @EYouth
+- Former Site Coordinator @Almentor
 - Former software engineer internship @ INNOTECH
 - Former software engineer trainee @ DEPI 
 - Former Head of Embedded System Team @ IEEE TSB
